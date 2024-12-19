@@ -1,1 +1,1 @@
-# Database-Project
+# Database-Project. Creation of a database using SQL about an operation that seems to have inefficiencies. This project hopes to use to the data created to find identify those inefficiencies and also generate a profitable business insight.
